@@ -15,7 +15,7 @@ const Footer = () => {
             <div className="SocialIcons">
               <a
                 className="SocialIconLink"
-                href="https://www.facebook.com/pages/category/Automotive-Store/Boca-Auto-Peças-e-Tintas-103069911606905/"
+                href="https://www.facebook.com/DescautoAcessorios/?__tn__=HHH-R"
                 target="_blank"
                 aria-label="Facebook"
                 rel="noopener noreferrer"
@@ -24,7 +24,7 @@ const Footer = () => {
               </a>
               <a
                 className="SocialIconLink"
-                href="https://www.instagram.com/bocatintas/"
+                href="https://www.instagram.com/descauto.acessorios/"
                 target="_blank"
                 aria-label="Instagram"
                 rel="noopener noreferrer"

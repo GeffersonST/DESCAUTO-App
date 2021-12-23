@@ -12,7 +12,7 @@ const CreatePoint = () => {
       >
         <fieldset>
           <legend>
-            <h2> R. Sete de Setembro, 3165 - São Miguel, Uruguaiana - RS</h2>
+            <h2> XV de Novembro 2975 Uruguaiana/RS</h2>
           </legend>
           <MapContainer
             center={[-29.7662566, -57.0877662]}
