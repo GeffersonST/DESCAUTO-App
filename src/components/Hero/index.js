@@ -15,7 +15,7 @@ const Hero = () => {
           <div className="HeroBtn">
             {" "}
             <BsTelephoneInboundFill />{" "}
-            <a href="tel:055-3411 1158">Faça seu Orçamento</a>
+            <a href="tel:055-3412 6478">Faça seu Orçamento</a>
           </div>
         </div>
       </div>
